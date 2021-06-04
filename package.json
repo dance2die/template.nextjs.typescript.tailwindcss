@@ -14,7 +14,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.0.4",
+    "babel-plugin-superjson-next": "^0.3.0",
     "postcss": "^8.1.10",
+    "superjson": "^1.7.4",
     "tailwindcss": "^2.1.1"
   }
 }
