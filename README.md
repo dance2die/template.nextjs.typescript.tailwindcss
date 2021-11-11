@@ -16,6 +16,6 @@ npx create-next-app --example https://github.com/dance2die/template.nextjs.types
 yarn create next-app --example https://github.com/dance2die/template.nextjs.typescript.tailwindcss your-site-name-here
 
 # PNPM - but I use this lul
-pnpx create-react-app --example https://github.com/dance2die/template.nextjs.typescript.tailwindcss your-site-name-here
+pnpx create-next-app --example https://github.com/dance2die/template.nextjs.typescript.tailwindcss your-site-name-here
 ```
 
